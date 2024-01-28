@@ -79,7 +79,7 @@ static TelnetSpy *SandT;
     #define FILE_WRITE "w"
     #define FILE_APPEND "a"
 
-    #include <ESP8266Wifi.h>
+    #include <ESP8266WiFi.h>
     #include <ESPAsyncTCP.h>
     #include "ESP8266TimerInterrupt.h"
 
